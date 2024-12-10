@@ -1,38 +1,38 @@
 {
     "fountainvalley": [
-        "0225CC",
+        "130,0,0",
         "KNJncys"
     ],
     "canyon": [
-        "D2C292",
+        "20,0,50",
         "pRiPxrg"
     ],
     "lahabra": [
-        "004E9E",
+        "120,0,5",
         "sd0bman"
     ],
     "losalamitos": [
-        "CA0018",
+        "0,-10,0",
         "PfWXn2Y"
     ],
     "buenapark": [
-        "194B2C",
+        "92,-70,12",
         "iNALrtZ"
     ],
     "sonora": [
-        "011B4E",
+        "120,-70,0",
         "XBbuSy0"
     ],
     "beckman": [
-        "142A47",
+        "106,-70,8",
         "ULlJcVK"
     ],
     "tustin": [
-        "090909",
+        "Infinity,-10,0",
         "pwZJCI6"
     ],
     "university": [
-        "92AAD8",
+        "123,0,55",
         "KVPvSbp"
     ]
 }
