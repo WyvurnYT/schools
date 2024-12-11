@@ -1,38 +1,47 @@
 {
     "fountainvalley": [
         "130,0,0",
-        "KNJncys"
+        "KNJncys",
+        "Barons"
     ],
     "canyon": [
         "20,0,50",
-        "pRiPxrg"
+        "pRiPxrg",
+        "Comanches"
     ],
     "lahabra": [
         "120,0,5",
-        "sd0bman"
+        "sd0bman",
+        "Highlanders"
     ],
     "losalamitos": [
         "0,-10,0",
-        "PfWXn2Y"
+        "PfWXn2Y",
+        "Griffins"
     ],
     "buenapark": [
         "92,-70,12",
-        "iNALrtZ"
+        "iNALrtZ",
+        "Coyotes"
     ],
     "sonora": [
         "120,-70,0",
-        "XBbuSy0"
+        "XBbuSy0",
+        "Raiders"
     ],
     "beckman": [
         "106,-70,8",
-        "ULlJcVK"
+        "ULlJcVK",
+        "Patriots"
     ],
     "tustin": [
         "Infinity,-10,0",
-        "pwZJCI6"
+        "pwZJCI6",
+        "Tillers"
     ],
     "university": [
         "123,0,55",
-        "KVPvSbp"
+        "KVPvSbp",
+        "Trojans"
     ]
 }
